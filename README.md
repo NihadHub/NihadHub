@@ -2,7 +2,7 @@
 
 #  Nihad | Full-Stack Developer
 
-### Spring Boot · React · Génie Informatique 🇲🇦
+### Spring Boot · React · Génie Informatique 
 
 ![](https://img.shields.io/badge/Focus-Full--Stack%20Development-4F8EF7?style=for-the-badge)
 ![](https://img.shields.io/badge/Stack-Spring%20Boot%20%2B%20React-6DB33F?style=for-the-badge)
