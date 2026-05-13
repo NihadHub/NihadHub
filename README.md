@@ -51,8 +51,8 @@ available:  Open to internships & collaboration
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NihadHub&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=1800" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NihadHub&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" height="165"/>
+  <img src="https://stats.hyochan.dev/api/github-stats?login=NihadHub&theme=tokyonight" height="165"/>
+  <img src="https://stats.hyochan.dev/api/github-stats-languages?login=NihadHub&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
