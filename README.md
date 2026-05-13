@@ -55,7 +55,7 @@ available:  Open to internships & collaboration
 <p align="center">
   <img src="https://img.shields.io/badge/Total%20Contributions-181-4F8EF7?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Repos-31-6DB33F?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Main%20Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Main%20Language-Java-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 <p align="center">
