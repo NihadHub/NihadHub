@@ -1,6 +1,12 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=4F8EF7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Nihad+%F0%9F%91%8B;Full-Stack+Developer;Spring+Boot+%2B+React+%F0%9F%9A%80;Génie+Informatique+Student" alt="Typing SVG" />
+# 👨‍💻 Nihad | Full-Stack Developer
+
+### Spring Boot · React · Génie Informatique 🇲🇦
+
+![](https://img.shields.io/badge/Focus-Full--Stack%20Development-4F8EF7?style=for-the-badge)
+![](https://img.shields.io/badge/Stack-Spring%20Boot%20%2B%20React-6DB33F?style=for-the-badge)
+![](https://img.shields.io/badge/Status-Open%20to%20Internships-brightgreen?style=for-the-badge)
 
 </div>
 
