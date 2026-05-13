@@ -25,20 +25,20 @@ available:  Open to internships & collaboration
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 🔹 Frontend
+###  Frontend
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 
-### 🔸 Backend
+###  Backend
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🗄️ Database & Tools
+###  Database & Tools
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle%20DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -50,7 +50,7 @@ available:  Open to internships & collaboration
 
 
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://img.shields.io/badge/Total%20Contributions-181-4F8EF7?style=for-the-badge&logo=github&logoColor=white"/>
@@ -64,7 +64,7 @@ available:  Open to internships & collaboration
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
@@ -74,7 +74,7 @@ available:  Open to internships & collaboration
 
 ---
 
-## 📬 Connect with Me
+##  Connect with Me
 
 <p align="center">
   <a href="mailto:ouachournihad@gmail.com">
@@ -86,5 +86,5 @@ available:  Open to internships & collaboration
 ---
 
 <p align="center">
-  <i>💡 "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+  <i> "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
 </p>
