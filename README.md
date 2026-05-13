@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Nihad | Full-Stack Developer
+#  Nihad | Full-Stack Developer
 
 ### Spring Boot · React · Génie Informatique 🇲🇦
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 ```yaml
 name:       Nihad
