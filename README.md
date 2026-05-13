@@ -66,12 +66,13 @@ available:  Open to internships & collaboration
 
 ##  Featured Projects
 
+
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [HealthCare](https://github.com/NihadHub/HealthCare) | Healthcare management web app | Java, Spring Boot, React |
 | [To-Do List](https://github.com/NihadHub/to-Do-list) | Task management web app | JavaScript, HTML, CSS |
 | *Coming soon...* | Spring Boot REST API project | Java, Spring Boot, MySQL |
 | *Coming soon...* | React frontend project | React, JS |
-
 ---
 
 ##  Connect with Me
