@@ -50,9 +50,12 @@ available:  Open to internships & collaboration
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://stats.hyochan.dev/api/github-stats?login=NihadHub&theme=tokyonight" height="165"/>
-  <img src="https://stats.hyochan.dev/api/github-stats-languages?login=NihadHub&theme=tokyonight" height="165"/>
+  <img src="https://img.shields.io/badge/Total%20Contributions-181-4F8EF7?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Repos-31-6DB33F?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Main%20Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 <p align="center">
@@ -74,12 +77,10 @@ available:  Open to internships & collaboration
 ## 📬 Connect with Me
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL_HERE">
+  <a href="mailto:ouachournihad@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+ 
 </p>
 
 ---
